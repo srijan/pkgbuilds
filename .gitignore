@@ -1,0 +1,9 @@
+*.bz2
+*.gz
+*.log
+*.sig
+*.xz
+*.zip
+
+pkg/
+src/
